@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 06:35:52</sys_created_on>
+        <sys_id>05b97db993b00210f079f5befaba1025</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1106612_linkin_0_source_control_git_commit_table_servicenow.x_1106612_linkin_0.admin</sys_name>
+        <sys_package display_value="Linking Git Scoped" source="x_1106612_linkin_0">11b8f53993b00210f079f5befaba10b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Linking Git Scoped">11b8f53993b00210f079f5befaba10b9</sys_scope>
+        <sys_security_acl display_value="x_1106612_linkin_0_source_control_git_commit_table_servicenow">09b97db993b00210f079f5befaba1022</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_05b97db993b00210f079f5befaba1025</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 06:35:52</sys_updated_on>
+        <sys_user_role display_value="x_1106612_linkin_0.admin" name="x_1106612_linkin_0.admin">61b8f53993b00210f079f5befaba10c0</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
